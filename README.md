@@ -18,4 +18,4 @@ $ cd PREMIUMDEV777
 
 $ git pull
 
-$ python PREMIUMDEV13.py
+$ python premmini.py
