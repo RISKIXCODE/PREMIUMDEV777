@@ -18,4 +18,8 @@ $ cd PREMIUMDEV777
 
 $ git pull
 
-$ python dev1.py
+$ python run.py
+git pull jgn lupa
+
+saran metode 1
+license (SOSIALFISTINJEKTON)
